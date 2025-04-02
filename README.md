@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This is ikdao github repo, where we explore experiment code new functions, features and apps
 <!--
 **ikdao/ikdao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
